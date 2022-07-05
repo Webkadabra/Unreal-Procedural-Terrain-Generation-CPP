@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DiamondSquareCPP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\DiamondSquareCPPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\DiamondSquareCPP.cpp.obj"
+"D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\DiamondSquareCPPGameModeBase.cpp.obj"
+"D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\DiamondSquareCPP.init.gen.cpp.obj"
+"D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\DiamondSquareCPPGameModeBase.gen.cpp.obj"
+"D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\Default.rc2.res"
+/OUT:"D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\UnrealEditor-DiamondSquareCPP.lib"

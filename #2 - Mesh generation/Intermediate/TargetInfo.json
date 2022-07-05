@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DiamondSquareCPP",
+			"Path": "D:\\Projects\\Unreal\\DiamondSquareCPP\\Source\\DiamondSquareCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DiamondSquareCPPEditor",
+			"Path": "D:\\Projects\\Unreal\\DiamondSquareCPP\\Source\\DiamondSquareCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

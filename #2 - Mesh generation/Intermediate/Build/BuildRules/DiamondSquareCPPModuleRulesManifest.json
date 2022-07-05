@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Unreal\\DiamondSquareCPP\\Source\\DiamondSquareCPP\\DiamondSquareCPP.Build.cs",
+		"D:\\Projects\\Unreal\\DiamondSquareCPP\\Source\\DiamondSquareCPP.Target.cs",
+		"D:\\Projects\\Unreal\\DiamondSquareCPP\\Source\\DiamondSquareCPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

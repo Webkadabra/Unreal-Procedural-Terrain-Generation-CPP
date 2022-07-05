@@ -1,0 +1,30 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\fetis\AppData\Local\UnrealBuildTool\Log.txt
+  Building DiamondSquareCPPEditor...
+  Using Visual Studio 2019 14.29.30145 toolchain (D:\Programs\Microsoft\VisualStudio\Visual Studio Proffesional 2019\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from DiamondSquareCPP unity file: DiamondSquare.cpp, DiamondSquareCPP.cpp, DiamondSquareCPPGameModeBase.cpp
+  Distributing 6 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  [1/6] DiamondSquare.gen.cpp (1:56.18 at +0:00)
+  [2/6] DiamondSquare.cpp (0:24.39 at +1:56)
+  [3/6] DiamondSquareCPP.init.gen.cpp (0:01.26 at +2:20)
+  [4/6] UnrealEditor-DiamondSquareCPP.dll (0:02.03 at +2:21)
+     Creating library D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\UnrealEditor-DiamondSquareCPP.suppressed.lib and object D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\UnrealEditor-DiamondSquareCPP.suppressed.exp
+  [5/6] UnrealEditor-DiamondSquareCPP.lib (0:00.32 at +2:23)
+     Creating library D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\UnrealEditor-DiamondSquareCPP.lib and object D:\Projects\Unreal\DiamondSquareCPP\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\UnrealEditor-DiamondSquareCPP.exp
+  [6/6] DiamondSquareCPPEditor.target (0:00.42 at +2:24)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 145.42 seconds
+  Total execution time: 147.09 seconds

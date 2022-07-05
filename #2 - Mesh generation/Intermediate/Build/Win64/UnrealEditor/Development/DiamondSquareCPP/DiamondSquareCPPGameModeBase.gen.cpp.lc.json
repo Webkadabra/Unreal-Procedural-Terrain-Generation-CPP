@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\unreal\\diamondsquarecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\diamondsquarecpp\\diamondsquarecppgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal\\diamondsquarecpp\\intermediate\\build\\win64\\diamondsquarecppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal\\diamondsquarecpp\\intermediate\\build\\win64\\unrealeditor\\development\\diamondsquarecpp\\definitions.diamondsquarecpp.h",
+            "d:\\projects\\unreal\\diamondsquarecpp\\source\\diamondsquarecpp\\diamondsquarecppgamemodebase.h",
+            "d:\\programs\\ue versions\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\programs\\ue versions\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\programs\\ue versions\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\programs\\ue versions\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\projects\\unreal\\diamondsquarecpp\\intermediate\\build\\win64\\unrealeditor\\inc\\diamondsquarecpp\\diamondsquarecppgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
