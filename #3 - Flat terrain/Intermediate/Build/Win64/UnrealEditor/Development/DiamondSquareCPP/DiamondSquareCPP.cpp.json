@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\unreal\\diamond square c++\\#3 - flat terrain\\source\\diamondsquarecpp\\diamondsquarecpp.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal\\diamond square c++\\#3 - flat terrain\\intermediate\\build\\win64\\diamondsquarecppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal\\diamond square c++\\#3 - flat terrain\\intermediate\\build\\win64\\unrealeditor\\development\\diamondsquarecpp\\definitions.diamondsquarecpp.h",
+            "d:\\projects\\unreal\\diamond square c++\\#3 - flat terrain\\source\\diamondsquarecpp\\diamondsquarecpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

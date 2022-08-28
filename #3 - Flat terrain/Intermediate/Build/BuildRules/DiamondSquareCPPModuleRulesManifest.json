@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Unreal\\Diamond Square C++\\#3 - Flat terrain\\Source\\DiamondSquareCPP\\DiamondSquareCPP.Build.cs",
+		"D:\\Projects\\Unreal\\Diamond Square C++\\#3 - Flat terrain\\Source\\DiamondSquareCPP.Target.cs",
+		"D:\\Projects\\Unreal\\Diamond Square C++\\#3 - Flat terrain\\Source\\DiamondSquareCPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
