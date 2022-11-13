@@ -1,0 +1,8 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\fetis\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Projects\Unreal\Diamond Square C++).
+  Deleted hot-reload file: D:\Projects\Unreal\Diamond Square C++\#4 - Perlin noise\Binaries\Win64\UnrealEditor-DiamondSquareCPP-8468.dll
+  Deleted hot-reload file: D:\Projects\Unreal\Diamond Square C++\#4 - Perlin noise\Binaries\Win64\UnrealEditor-DiamondSquareCPP-8468.pdb
+  Deleted hot-reload file: D:\Projects\Unreal\Diamond Square C++\#4 - Perlin noise\Intermediate\Build\Win64\UnrealEditor\Development\DiamondSquareCPP\UnrealEditor-DiamondSquareCPP-8468.lib
+UnrealBuildTool : error : Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""D:\Soft\Unreal Engine\UE_5.0\Engine\Build\BatchFiles\Build.bat" DiamondSquareCPPEditor Win64 Development -Project="D:\Projects\Unreal\Diamond Square C++\#4 - Perlin noise\DiamondSquareCPP.uproject" -WaitMutex -FromMsBuild" exited with code 6.

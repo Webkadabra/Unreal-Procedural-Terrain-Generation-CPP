@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Unreal\\Diamond Square C++\\#4 - Perlin noise\\Source\\DiamondSquareCPP\\DiamondSquareCPP.Build.cs",
+		"D:\\Projects\\Unreal\\Diamond Square C++\\#4 - Perlin noise\\Source\\DiamondSquareCPP.Target.cs",
+		"D:\\Projects\\Unreal\\Diamond Square C++\\#4 - Perlin noise\\Source\\DiamondSquareCPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

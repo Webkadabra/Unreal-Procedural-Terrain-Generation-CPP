@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\unreal\\diamond square c++\\#3 - flat terrain\\source\\diamondsquarecpp\\private\\diamondsquare.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal\\diamond square c++\\#3 - flat terrain\\intermediate\\build\\win64\\diamondsquarecppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal\\diamond square c++\\#3 - flat terrain\\intermediate\\build\\win64\\unrealeditor\\development\\diamondsquarecpp\\definitions.diamondsquarecpp.h",
+            "d:\\projects\\unreal\\diamond square c++\\#3 - flat terrain\\source\\diamondsquarecpp\\public\\diamondsquare.h",
+            "d:\\projects\\unreal\\diamond square c++\\#3 - flat terrain\\intermediate\\build\\win64\\unrealeditor\\inc\\diamondsquarecpp\\diamondsquare.generated.h",
+            "d:\\soft\\unreal engine\\ue_5.0\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
+            "d:\\soft\\unreal engine\\ue_5.0\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\proceduralmeshcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

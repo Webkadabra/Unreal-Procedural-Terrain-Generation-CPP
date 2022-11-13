@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\unreal\\diamond square c++\\#4 - perlin noise\\intermediate\\build\\win64\\unrealeditor\\inc\\diamondsquarecpp\\diamondsquarecppgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal\\diamond square c++\\#4 - perlin noise\\intermediate\\build\\win64\\diamondsquarecppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal\\diamond square c++\\#4 - perlin noise\\intermediate\\build\\win64\\unrealeditor\\development\\diamondsquarecpp\\definitions.diamondsquarecpp.h",
+            "d:\\projects\\unreal\\diamond square c++\\#4 - perlin noise\\source\\diamondsquarecpp\\diamondsquarecppgamemodebase.h",
+            "d:\\soft\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\soft\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\soft\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\soft\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\projects\\unreal\\diamond square c++\\#4 - perlin noise\\intermediate\\build\\win64\\unrealeditor\\inc\\diamondsquarecpp\\diamondsquarecppgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

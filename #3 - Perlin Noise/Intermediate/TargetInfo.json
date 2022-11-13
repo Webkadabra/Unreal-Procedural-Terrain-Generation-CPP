@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DiamondSquareCPP",
+			"Path": "D:\\Projects\\Unreal\\Diamond Square C++\\#4 - Perlin noise\\Source\\DiamondSquareCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DiamondSquareCPPEditor",
+			"Path": "D:\\Projects\\Unreal\\Diamond Square C++\\#4 - Perlin noise\\Source\\DiamondSquareCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
